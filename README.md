@@ -18,7 +18,6 @@
 
 
 ## experiences
-#### summary
 * work experience:
 
 |Company|Location|Entry Date|Leave Date|Position|Form|
