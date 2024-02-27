@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<h3>Skills</h3>
+###Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25"/></a>
 
 <br>
